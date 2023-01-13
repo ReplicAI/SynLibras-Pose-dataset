@@ -15,11 +15,16 @@ The database was collected from the videos of the Libras-Portuguese dictionary p
 
 the bank is available at this link:(https://mega.nz/file/JFZmkJQR#DGAgMi1NVBWaD72aTJGh9EQrXAWFAZCe9wrDlm7mIZQ)
 
+
+
 427 videos were obtained containing more than 73,000 frames numbered by actors. Each video represents a word or a concept of it, we divided the videos by their 4 actors remaining after pre-processing. split up still the data in videos, frames and poses, with each video having its frames and poses associated with their respective names.
 The generated poses consist of 12 body points, 10 points for thehands, and also possessed 8 facial points.
 With high definition images dot loss is minimal for each frame making dot accuracy much higher than those of other banks. Despite this, there may still be consistencies in the estimation of poses that can harm the training of methods based on these data. Thus, one of the contributions of this work was the development of a tool for viewing and editing component points of the body pose. Thus, it was possible to correct errors in the active giving greater precision and accuracy to the pose estimates
 
 <img src='Img/correcao.png' width="1000px"/>
+
+With this tool it is possible to identify key points of the json and edit them to maintain a higher precision standard than just using the estimator.
+
 
 [OpenPose](https://github.com/CMU-Perceptual-Computing-Lab/openpose)
 
