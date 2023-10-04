@@ -18,7 +18,7 @@ To cite the dataset use the BibTeX entry below:
 
 The database was collected from the videos of the Libras-Portuguese dictionary project (Federal University of Viçosa, 2017). Using image manipulation in the Python language, the frame-by-frame videos and these were resized to 1024x1024 pixels.
 
-<img src='Img/1.jpg' width="250px"/><img src='Img/0.jpg' width="250px"/><img src='Img/3.jpg' width="250px"/><img src='Img/2.jpg' width="250px"/>
+<img src='Img/1.jpg' width="225px"/><img src='Img/0.jpg' width="225px"/><img src='Img/3.jpg' width="225px"/><img src='Img/2.jpg' width="225px"/>
 
 <img src='Img/exemplo 1.png' width="1000px"/>
 
