@@ -40,7 +40,12 @@ With this tool, it is possible to identify keypoints in the JSON metadata file a
 
 <img src='Img/correcao.png' width="1000px"/>
 
+## Acknowledgment
 
+The source of the original videos is the [Dicionário de Libras](https://sistemas.cead.ufv.br/capes/dicionario/), gently released under the Creative Commons License by the
+Federal University of Viçosa, Viçosa, Brazil.
+
+This work is supported by FAPERGS grant ARD-21/2551-0000678-1.
 
 
 
